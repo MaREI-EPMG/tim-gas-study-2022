@@ -1,0 +1,30 @@
+[
+  {
+    "name": "No_Mitigation",
+    "variants": [{ "name": "No_Mitigation", "specs": null }]
+  },
+  {
+    "name": "Mitigation_Baseline",
+    "variants": [{ "name": "Mitigation_Baseline", "specs": null }]
+  },
+  {
+    "name": "Mitigation_SectoralCBs",
+    "variants": [{ "name": "Mitigation_SectoralCBs", "specs": null }]
+  },
+  {
+    "name": "Mitigation_CarbonBudget",
+    "variants": [{ "name": "Mitigation_CarbonBudget", "specs": null }]
+  },
+  {
+    "name": "Mitigation_SectoralCBs-LED_Halfway",
+    "variants": [
+      { "name": "Mitigation_SectoralCBs-LED_Halfway", "specs": null }
+    ]
+  },
+  {
+    "name": "Mitigation_CarbonBudget-LED_Halfway",
+    "variants": [
+      { "name": "Mitigation_CarbonBudget-LED_Halfway", "specs": null }
+    ]
+  }
+]
