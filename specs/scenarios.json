@@ -1,30 +1,30 @@
 [
   {
-    "name": "No_Mitigation",
-    "variants": [{ "name": "No_Mitigation", "specs": null }]
+    "name": "no_mitigation",
+    "variants": [{ "name": "no_mitigation", "specs": null }]
   },
   {
-    "name": "Mitigation_Baseline",
-    "variants": [{ "name": "Mitigation_Baseline", "specs": null }]
+    "name": "mitigation_baseline",
+    "variants": [{ "name": "mitigation_baseline", "specs": null }]
   },
   {
-    "name": "Mitigation_SectoralCBs",
-    "variants": [{ "name": "Mitigation_SectoralCBs", "specs": null }]
+    "name": "mitigation_sectoralcbs",
+    "variants": [{ "name": "mitigation_sectoralcbs", "specs": null }]
   },
   {
-    "name": "Mitigation_CarbonBudget",
-    "variants": [{ "name": "Mitigation_CarbonBudget", "specs": null }]
+    "name": "mitigation_carbonbudget",
+    "variants": [{ "name": "mitigation_carbonbudget", "specs": null }]
   },
   {
-    "name": "Mitigation_SectoralCBs-LED_Halfway",
+    "name": "mitigation_sectoralcbs-led_halfway",
     "variants": [
-      { "name": "Mitigation_SectoralCBs-LED_Halfway", "specs": null }
+      { "name": "mitigation_sectoralcbs-led_halfway", "specs": null }
     ]
   },
   {
-    "name": "Mitigation_CarbonBudget-LED_Halfway",
+    "name": "mitigation_carbonbudget-led_halfway",
     "variants": [
-      { "name": "Mitigation_CarbonBudget-LED_Halfway", "specs": null }
+      { "name": "mitigation_carbonbudget-led_halfway", "specs": null }
     ]
   }
 ]

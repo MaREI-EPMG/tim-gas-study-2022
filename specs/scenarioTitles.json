@@ -1,8 +1,8 @@
 {
-  "No_Mitigation": "No Mitigation",
-  "Mitigation_SectoralCBs": "Sectoral CBs",
-  "Mitigation_CarbonBudget": "Whole System CB",
-  "Mitigation_SectoralCBs-LED_Halfway": "Sectoral CBs (HL)",
-  "Mitigation_CarbonBudget-LED_Halfway": "Whole System CB (HL)",
-  "Mitigation_Baseline": "Baseline",
+  "no_mitigation": "No Mitigation",
+  "mitigation_sectoralcbs": "Sectoral CBs",
+  "mitigation_carbonbudget": "Whole System CB",
+  "mitigation_sectoralcbs-led_halfway": "Sectoral CBs (HL)",
+  "mitigation_carbonbudget-led_halfway": "Whole System CB (HL)",
+  "mitigation_baseline": "Baseline"
 }
