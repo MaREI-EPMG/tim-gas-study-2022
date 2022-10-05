@@ -4,27 +4,15 @@
     "variants": [{ "name": "no_mitigation", "specs": null }]
   },
   {
-    "name": "mitigation_baseline",
-    "variants": [{ "name": "mitigation_baseline", "specs": null }]
-  },
-  {
     "name": "mitigation_sectoralcbs",
     "variants": [{ "name": "mitigation_sectoralcbs", "specs": null }]
   },
   {
-    "name": "mitigation_carbonbudget",
-    "variants": [{ "name": "mitigation_carbonbudget", "specs": null }]
+    "name": "mitigation_sectoralcbs-dc1",
+    "variants": [{ "name": "mitigation_sectoralcbs-dc1", "specs": null }]
   },
   {
-    "name": "mitigation_sectoralcbs-led_halfway",
-    "variants": [
-      { "name": "mitigation_sectoralcbs-led_halfway", "specs": null }
-    ]
-  },
-  {
-    "name": "mitigation_carbonbudget-led_halfway",
-    "variants": [
-      { "name": "mitigation_carbonbudget-led_halfway", "specs": null }
-    ]
+    "name": "mitigation_sectoralcbs-dc2",
+    "variants": [{ "name": "mitigation_sectoralcbs-dc2", "specs": null }]
   }
 ]
