@@ -14,5 +14,9 @@
   {
     "name": "mitigation_sectoralcbs-dc2",
     "variants": [{ "name": "mitigation_sectoralcbs-dc2", "specs": null }]
+  },
+  {
+    "name": "mitigation_sectoralcbs-dc3",
+    "variants": [{ "name": "mitigation_sectoralcbs-dc3", "specs": null }]
   }
 ]
