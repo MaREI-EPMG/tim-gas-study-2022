@@ -18,5 +18,17 @@
   {
     "name": "mitigation_sectoralcbs-dc3",
     "variants": [{ "name": "mitigation_sectoralcbs-dc3", "specs": null }]
+  },
+  {
+    "name": "mitigation_sectoralcbs-nobeccs",
+    "variants": [{ "name": "mitigation_sectoralcbs-nobeccs", "specs": null }]
+  },
+  {
+    "name": "mitigation_sectoralcbs-led",
+    "variants": [{ "name": "mitigation_sectoralcbs-led", "specs": null }]
+  },
+  {
+    "name": "mitigation_sectoralcbs-led_halfway",
+    "variants": [{ "name": "mitigation_sectoralcbs-led_halfway", "specs": null }]
   }
 ]
