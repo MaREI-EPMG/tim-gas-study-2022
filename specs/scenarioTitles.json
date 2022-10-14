@@ -2,9 +2,7 @@
   "no_mitigation": "No Mitigation",
   "mitigation_sectoralcbs": "Sectoral CBs",
   "mitigation_sectoralcbs-dc1": "Sectoral CBs (DC-high)",
-  "mitigation_sectoralcbs-dc2": "Sectoral CBs (DC-med)",
-  "mitigation_sectoralcbs-dc3": "Sectoral CBs (DC-low)",
-  "mitigation_sectoralcbs-nobeccs": "Sectoral CBs (w/o BECCS)",
+  "mitigation_sectoralcbs-dc2": "Sectoral CBs (DC-low)",
   "mitigation_sectoralcbs-led": "Sectoral CBs (LED)",
   "mitigation_sectoralcbs-led_halfway": "Sectoral CBs (hLED)"
 }

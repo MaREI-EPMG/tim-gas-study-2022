@@ -1,1 +1,1 @@
-{"name": "mitigation_sectoralcbs-dc_projection~0002", "data": [{"seriesName": "INDCO2N", "seriesValues": [[2025, 2163.75717521412], [2030, 899.802197034474]]}, {"seriesName": "TRACO2N", "seriesValues": [[2030, 86.0694088590262]]}]}
+{"name": "mitigation_sectoralcbs-dc_projection~0002", "data": [{"seriesName": "INDCO2N", "seriesValues": [[2025, 2693.69933518972], [2030, 982.745180789214]]}, {"seriesName": "SRVCO2N", "seriesValues": [[2025, 738.995847895196]]}, {"seriesName": "TRACO2N", "seriesValues": [[2025, 7898.94778887995], [2030, 4888.65454347455]]}]}
