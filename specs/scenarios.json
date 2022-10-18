@@ -15,6 +15,27 @@
     "name": "mitigation_sectoralcbs-dc2",
     "variants": [{ "name": "mitigation_sectoralcbs-dc2", "specs": null }]
   },
+  
+  {
+    "name": "mitigation_sectoralcbs-dc3",
+    "variants": [{ "name": "mitigation_sectoralcbs-dc3", "specs": null }]
+  },
+  {
+    "name": "mitigation_sectoralcbs-highren",
+    "variants": [{ "name": "mitigation_sectoralcbs", "specs": null }]
+  },
+  {
+    "name": "mitigation_sectoralcbs-highren-dc1",
+    "variants": [{ "name": "mitigation_sectoralcbs-dc1", "specs": null }]
+  },
+  {
+    "name": "mitigation_sectoralcbs-highren-dc2",
+    "variants": [{ "name": "mitigation_sectoralcbs-dc2", "specs": null }]
+  },
+  {
+    "name": "mitigation_sectoralcbs-highren-dc3",
+    "variants": [{ "name": "mitigation_sectoralcbs-dc3", "specs": null }]
+  },
   {
     "name": "mitigation_sectoralcbs-led",
     "variants": [{ "name": "mitigation_sectoralcbs-led", "specs": null }]
